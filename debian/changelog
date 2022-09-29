@@ -1,0 +1,12 @@
+golang-github-erikstmartin-go-testdb (0.0~git20160219.0.8d10e4a-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Thu, 07 Jan 2021 17:17:58 +0100
+
+golang-github-erikstmartin-go-testdb (0.0~git20160219.0.8d10e4a-1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Paul Tagliamonte <paultag@debian.org>  Thu, 20 Jul 2017 22:13:26 -0700
